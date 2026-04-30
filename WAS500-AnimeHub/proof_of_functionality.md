@@ -1,9 +1,4 @@
-# Assignment 02 Report  
-**Course:** WSA500  
-
-**Student:** Pawan Koirala  
-
-**Student Number:** 137489233  
+# PROOF OF FUNCTIONALITY 
 
 **Project:** Anime and Movie Recommendation Hub  
 
@@ -460,12 +455,12 @@ These files allow configuration without committing secrets to the repository.
 
 ---
 
-![Recommendation 2](./proof_with_screenshots/37_refreshing_the_page_returns_a_new_recommendation_everytime_part2.png)
+![Recommendation 2](./proof_with_screenshots/37_refreshing_the_page_returns_a_new_recommendation_everytime_part2.png.png)
 **Figure 6.37 shows** a different recommendation after refresh.
 
 ---
 
-![Recommendation 3](./proof_with_screenshots/38_refreshing_the_page_returns_a_new_recommendation_everytime_part3.png)
+![Recommendation 3](./proof_with_screenshots/38_refreshing_the_page_returns_a_new_recommendation_everytime_part3.png.png)
 **Figure 6.38 shows** another recommendation variation.
 
 ---
