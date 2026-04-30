@@ -1,4 +1,4 @@
-# AnimeHub – Anime & Movie Recommendation Hub
+# AnimeHub - Anime & Movie Recommendation Hub
 
 ## Overview
 
