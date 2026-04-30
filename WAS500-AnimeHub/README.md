@@ -57,7 +57,7 @@ WSA500-AnimeHub/
 ### 1. Clone the repository
 
 ```bash
-git clone <your-repo-link>
+git clone https://github.com/PawKoi/anime-movie-recommendation-hub
 cd WSA500-AnimeHub
 ```
 
