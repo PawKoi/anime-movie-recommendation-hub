@@ -1,3 +1,3 @@
 The door to **WAS500-AnimeHub** is open, please enter 
 
-<img width="800" height="800" alt="ComeOnInLisaToddWexleyGIF" src="https://github.com/user-attachments/assets/9ddc8a5f-a16a-4cfc-a5f3-fb6c858cf367" />
+<img width="800" height="600" alt="DisgustedGIF" src="https://github.com/user-attachments/assets/543be18b-1878-4599-8cc2-b8b73787c364" />
